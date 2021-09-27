@@ -1,0 +1,3 @@
+rootProject.name = "YcShadowConstant"
+include ':app'
+include ':constantlib'

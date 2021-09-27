@@ -1,4 +1,4 @@
-package com.yc.constantlib
+package com.yc.shadowconstantlib
 
 import android.os.Bundle
 
